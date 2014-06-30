@@ -1,0 +1,37 @@
+{
+  "id": 200001623,
+  "models":[
+    {
+      "id": "Lexus_CT_200h",
+      "name":	"CT 200h",
+      "niceName": "ct200h",
+      "years":[
+        {
+          "id": 100531231,
+          "year": 2011
+        },
+        {
+          "id": 100537990,
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "id": "Lexus_ES_250",
+      "name": "ES 250",
+      "niceName": "es250",
+      "years": [
+        {
+          "id": 2029,
+          "year": 1990
+        },
+        {
+          "id": 2030,
+          "year": 1991
+        }
+      ]
+    }
+  ],
+  "name": "Lexus",
+  "niceName": "lexus"
+}

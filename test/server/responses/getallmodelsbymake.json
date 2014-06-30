@@ -1,0 +1,61 @@
+{
+  "models": [
+    {
+      "id": "Lexus_CT_200h",
+      "name": "CT 200h",
+      "niceName": "ct200h",
+      "years": [
+        {
+          "id": 200437666,
+          "year": 2013,
+          "styles": [
+            {
+              "id": 200437667,
+              "name": "4dr Hatchback (1.8L 4cyl gas\/electric hybrid CVT)",
+              "submodel": {
+                "body": "Hatchback",
+                "modelName": "CT 200h Hatchback",
+                "niceName": "hatchback"
+              },
+              "trim": "Base"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Lexus_RX_450h",
+      "name": "RX 450h",
+      "niceName": "rx450h",
+      "years": [
+        {
+          "id": 200419837,
+          "year": 2013,
+          "styles": [
+            {
+              "id": 200419839,
+              "name": "4dr SUV AWD (3.5L 6cyl gas\/electric hybrid CVT)",
+              "submodel": {
+                "body": "SUV",
+                "modelName": "RX 450h SUV",
+                "niceName": "suv"
+              },
+              "trim": "Base"
+            },
+            {
+              "id": 200419838,
+              "name": "4dr SUV (3.5L 6cyl gas\/electric hybrid CVT)",
+              "submodel": {
+                "body": "SUV",
+                "modelName": "RX 450h SUV",
+                "niceName": "suv"
+              },
+              "trim": "Base"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "modelsCount": 16
+}

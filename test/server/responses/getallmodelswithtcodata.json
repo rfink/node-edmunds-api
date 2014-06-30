@@ -1,0 +1,108 @@
+{
+  "models": {
+    "mdx:SUV": {
+      "id": "Acura_MDX",
+      "name": "MDX SUV",
+      "link": "/acura/mdx",
+      "submodel": "SUV",
+      "nicesubmodel": "suv",
+      "model": "MDX",
+      "nicemodel": "mdx",
+      "years": {
+        "NEW_USED": [2013],
+        "USED": [2008, 2009, 2010, 2011, 2012]
+      }
+    },
+    "rdx:SUV": {
+      "id": "Acura_RDX",
+      "name": "RDX SUV",
+      "link": "/acura/rdx",
+      "submodel": "SUV",
+      "nicesubmodel": "suv",
+      "model": "RDX",
+      "nicemodel": "rdx",
+      "years": {
+        "NEW_USED": [2013],
+        "USED": [2008, 2009, 2010, 2011, 2012]
+      }
+    },
+    "rl:Sedan": {
+      "id": "Acura_RL",
+      "name": "RL Sedan",
+      "link": "/acura/rl",
+      "submodel": "Sedan",
+      "nicesubmodel": "sedan",
+      "model": "RL",
+      "nicemodel": "rl",
+      "years": {
+        "NEW_USED": [2012],
+        "USED": [2008, 2009, 2010, 2011]
+      }
+    },
+    "tl:Sedan": {
+      "id": "Acura_TL",
+      "name": "TL Sedan",
+      "link": "/acura/tl",
+      "submodel": "Sedan",
+      "nicesubmodel": "sedan",
+      "model": "TL",
+      "nicemodel": "tl",
+      "years": {
+        "NEW": [2013],
+        "NEW_USED": [2013],
+        "USED": [2008, 2009, 2010, 2011, 2012]
+      }
+    },
+    "tl:Type-S": {
+      "id": "Acura_TL",
+      "name": "TL Type-S",
+      "link": "/acura/tl",
+      "submodel": "Type-S",
+      "nicesubmodel": "types",
+      "model": "TL",
+      "nicemodel": "tl",
+      "years": {
+        "USED": [2008]
+      }
+    },
+    "tsx:Sedan": {
+      "id": "Acura_TSX",
+      "name": "TSX Sedan",
+      "link": "/acura/tsx",
+      "submodel": "Sedan",
+      "nicesubmodel": "sedan",
+      "model": "TSX",
+      "nicemodel": "tsx",
+      "years": {
+        "NEW_USED": [2013],
+        "USED": [2008, 2009, 2010, 2011, 2012]
+      }
+    },
+    "tsxsportwagon": {
+      "id": "Acura_TSX_Sport_Wagon",
+      "name": "TSX Sport Wagon",
+      "link": "/acura/tsxsportwagon",
+      "model": "TSX Sport Wagon",
+      "nicemodel": "tsxsportwagon",
+      "years": {
+        "NEW": [2013],
+        "NEW_USED": [2012],
+        "USED": [2011]
+      }
+    },
+    "zdx:Hatchback": {
+      "id": "Acura_ZDX",
+      "name": "ZDX Hatchback",
+      "link": "/acura/zdx",
+      "submodel": "Hatchback",
+      "nicesubmodel": "hatchback",
+      "model": "ZDX",
+      "nicemodel": "zdx",
+      "years": {
+        "NEW": [2013],
+        "NEW_USED": [2012],
+        "USED": [2010, 2011]
+      }
+    }
+  }
+}

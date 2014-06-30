@@ -1,0 +1,25 @@
+{
+  "id": 1383882,
+  "legacyId": 328893,
+  "make": "Make",
+  "model": "Model",
+  "year": 2000,
+  "styleId": 209382445,
+  "title": "Title",
+  "text": "Text",
+  "updated": 1,
+  "submodels": [],
+  "created": 183847727,
+  "favoriteFeatures": "Features",
+  "suggestedImprovements": "Improvements",
+  "author": {
+    "authorName": "Author"
+  },
+  "ratings": [],
+  "comments": [],
+  "thumbsUpDownCounter": {
+    "thumbsDown": 20,
+    "thumbsUp": 5
+  },
+  "moderationStatus": "Status"
+}

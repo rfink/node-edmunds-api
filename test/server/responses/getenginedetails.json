@@ -1,0 +1,19 @@
+{
+  "id": "200478098",
+  "name": "5.7L V8 Engine (EZH)",
+  "equipmentType": "ENGINE",
+  "availability": "OPTIONAL",
+  "compressionRatio": 10.5,
+  "cylinder": 8,
+  "size": 5.7,
+  "displacement": 5654,
+  "configuration": "V",
+  "fuelType": "regular unleaded",
+  "horsepower": 363,
+  "torque": 394,
+  "totalValves": 16,
+  "manufacturerEngineCode": "EZH",
+  "type": "gas",
+  "code": "8VNAG5.7",
+  "compressorType": "NA"
+}

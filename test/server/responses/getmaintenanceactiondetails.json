@@ -1,0 +1,17 @@
+{
+  "actionHolder": [{
+    "id": 563663,
+    "engineCode": "8VNAG4.6",
+    "transmissionCode": "ALL",
+    "intervalMileage": 0,
+    "intervalMonth": 1,
+    "frequency": 4,
+    "action": "Check operation",
+    "item": "Lighting",
+    "itemDescription": "The vehicle\u0027s electrical illumination.",
+    "laborUnits": 0.0,
+    "partUnits": 0.0,
+    "driveType": "ALL",
+    "modelYear": "/api/vehicle/modelyearrepository/findbyid?id=100502677"
+  }]
+}

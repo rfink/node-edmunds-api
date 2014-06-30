@@ -1,0 +1,9 @@
+{
+  "id": "200478100",
+  "name": "5A",
+  "equipmentType": "TRANSMISSION",
+  "availability": "OPTIONAL",
+  "automaticType": "Shiftable automatic",
+  "transmissionType": "AUTOMATIC",
+  "numberOfSpeeds": "5"
+}

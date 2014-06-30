@@ -1,0 +1,26 @@
+{
+  "id": 100533091,
+  "year": 2011,
+  "styles": [
+    {
+      "id": 101353968,
+      "name": "4dr SUV AWD (3.5L 6cyl 6A)",
+      "submodel": {
+        "body": "SUV",
+        "modelName": "RX 350 SUV",
+        "niceName": "suv"
+      },
+      "trim": "Base"
+    },
+    {
+      "id": 101353967,
+      "name": "4dr SUV (3.5L 6cyl 6A)",
+      "submodel": {
+        "body": "SUV",
+        "modelName": "RX 350 SUV",
+        "niceName": "suv"
+      },
+      "trim": "Base"
+    }
+  ]
+}

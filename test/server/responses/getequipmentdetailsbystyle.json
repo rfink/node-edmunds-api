@@ -1,0 +1,57 @@
+{
+  "equipment": [
+    {
+      "id": "10135396713",
+      "name": "AIR_CONDITIONING",
+      "equipmentType": "OTHER",
+      "availability": "STANDARD",
+      "attributes": [
+        {
+          "name": "Front Air Conditioning Zones",
+          "value": "dual"
+        },
+        {
+          "name": "Front Air Conditioning",
+          "value": "automatic climate control"
+        },
+        {
+          "name": "Rear Heat",
+          "value": "rear ventilation ducts"
+        },
+        {
+          "name": "Air Filtration",
+          "value": "interior air filtration"
+        }
+      ]
+    },
+    {
+      "id": "200349838",
+      "name": "Engine",
+      "equipmentType": "ENGINE",
+      "availability": "STANDARD",
+      "compressionRatio": 10.8,
+      "cylinder": 6,
+      "size": 3.5,
+      "displacement": 3457,
+      "configuration": "V",
+      "fuelType": "premium unleaded (recommended)",
+      "horsepower": 275,
+      "torque": 257,
+      "totalValves": 24,
+      "manufacturerEngineCode": "2GR-FE",
+      "type": "gas",
+      "code": "6VNAG3.5",
+      "compressorType": "NA"
+    },
+    {
+      "id": "200349839",
+      "name": "6A",
+      "equipmentType": "TRANSMISSION",
+      "availability": "STANDARD",
+      "automaticType": "Shiftable automatic",
+      "transmissionType": "AUTOMATIC",
+      "numberOfSpeeds": "6"
+    }
+  ],
+  "equipmentCount": 68
+}

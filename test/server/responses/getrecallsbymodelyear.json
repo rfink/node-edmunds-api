@@ -1,0 +1,15 @@
+{
+  "recallHolder": [{
+    "id": 169008,
+    "recallNumber": "02V313000",
+    "componentDescription": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+    "manufacturerRecallNumber": "02S43",
+    "manufacturedTo": "2002-11-10",
+    "numberOfVehiclesAffected": "25",
+    "influencedBy": "MFR",
+    "defectConsequence": "THIS COULD RESULT  RESULTING IN INCORRECT GEAR INDICATION.",
+    "defectCorrectiveAction": "DEALERS WILL ADD A STRAP TO THE SHIFT CABLE ADJUSTER TO PREVENT THE SHIFT CABLE FROM BECOMING DISLODGED.   FORD HAS NOT YET PROVIDED AN OWNER NOTIFICATION SCHEDULE FOR THIS CAMPAIGN.   OWNERS WHO DO NOT RECEIVE THE FREE REMEDY  WITHIN A REASONABLE TIME SHOULD CONTACT FORD AT 1-866-436-7332.",
+    "defectDescription": "ON CERTAIN SPORT UTILITY VEHICLES, THE TRANSMISSION SHIFT CABLE CAN BECOME DISLODGED FROM THE SHIFT CABLE BRACKET.",
+    "modelYear": "/api/vehicle/modelyearrepository/findbyid?id=100502677"
+  }]
+}

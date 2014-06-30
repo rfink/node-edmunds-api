@@ -1,0 +1,30 @@
+{
+  "years": [
+    {
+      "id": 200442557,
+      "year": 2013,
+      "styles": [
+        {
+          "id": 200443845,
+          "name": "LX 2dr Coupe (1.8L 4cyl 5A)",
+          "submodel": {
+            "body": "Coupe",
+            "modelName": "Civic Coupe",
+            "niceName": "coupe"
+          },
+          "trim": "LX"
+        },
+        {
+          "id": 200463193,
+          "name": "HF PZEV 4dr Sedan (1.8L 4cyl 5A)",
+          "submodel": {
+            "body": "Sedan",
+            "modelName": "Civic Sedan",
+            "niceName": "sedan"
+          },
+          "trim": "HF PZEV"
+        }
+      ]
+    }
+  ]
+}

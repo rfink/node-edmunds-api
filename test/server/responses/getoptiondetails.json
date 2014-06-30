@@ -1,0 +1,22 @@
+{
+  "id": "200235312",
+  "name": "Power Moonroof",
+  "equipmentType": "OPTION",
+  "availability": "Super\/SuperCrew XLT\/FX4\/Lariat",
+  "manufactureOptionName": "Power Moonroof",
+  "manufactureOptionCode": "43M",
+  "equipment": [
+  ],
+  "category": "Other",
+  "attributes": [
+    {
+      "name": "Sunroof",
+      "value": "power glass"
+    }
+  ],
+  "price": {
+    "baseMSRP": 810,
+    "baseInvoice": 688,
+    "estimateTmv": false
+  }
+}

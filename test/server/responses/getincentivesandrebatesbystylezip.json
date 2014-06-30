@@ -1,0 +1,35 @@
+{
+  "incentiveHolder": [{
+    "monthlyPayment": 199.0,
+    "termMonths": 24,
+    "requiredDownPayment": 2389.0,
+    "annualMileage": 10000,
+    "excessMileagePenalty": 0.25,
+    "creditRatingTier": "Tier 1",
+    "id": 2946106,
+    "type": "LEASE",
+    "contentType": "LEASE",
+    "sourceType": "UNKNOWN",
+    "subprogramId": 831423,
+    "startDate": "2013-07-09",
+    "endDate": "2013-09-03",
+    "comments": "",
+    "restrictions": "Lease is based on the 2013 Verano Base. MSRP as equipped is $23,975. $2389 is due at signing. Tax, title, registration and insurance fees are not included. Must Finance through US Bank.",
+    "name": "Lease - 2013 Verano - National",
+    "primary": false,
+    "incentiveVehicles": [{
+      "link": "/api/incentive/incentivevehicle/58585"
+    }],
+    "zipcodeExceptions": [],
+    "categories": ["Car", "Sedan"],
+    "regions": ["i397"],
+    "incentiveType": "lease",
+    "optionIds": [],
+    "makeIds": [{
+      "link": "/api/vehicle/make/200006659"
+    }],
+    "styleIds": [{
+      "link": "/api/vehicle/style/200482817"
+    }]
+  }]
+}

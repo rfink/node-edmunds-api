@@ -1,0 +1,20 @@
+{
+  "id": "200478111",
+  "name": "Granite Crystal Metallic Clear Coat",
+  "equipmentType": "COLOR",
+  "manufactureOptionName": "Granite Crystal Metallic Clear Coat",
+  "manufactureOptionCode": "PAU",
+  "category": "Exterior",
+  "colorChips": {
+    "primary": {
+      "r": 72,
+      "g": 72,
+      "b": 72,
+      "hex": "484848"
+    }
+  },
+  "fabricTypes": [
+  ],
+  "attributes": [
+  ]
+}

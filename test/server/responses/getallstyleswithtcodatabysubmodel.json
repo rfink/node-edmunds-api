@@ -1,0 +1,22 @@
+{
+  "styles": {
+    "4dr Hatchback AWD (3.7L 6cyl 6A)": {
+      "id": 101375229,
+      "price": 46020.0,
+      "trim": "Base",
+      "styleLongName": "3.7L V6 AWD 6-speed Automatic"
+    },
+    "4dr Hatchback AWD w/Advance Package (3.7L 6cyl 6A)": {
+      "id": 101375241,
+      "price": 56570.0,
+      "trim": "Base",
+      "styleLongName": "3.7L V6 AWD 6-speed Automatic w/Advance Package"
+    },
+    "4dr Hatchback AWD w/Technology Package (3.7L 6cyl 6A)": {
+      "id": 101375230,
+      "price": 50520.0,
+      "trim": "Base",
+      "styleLongName": "3.7L V6 AWD 6-speed Automatic w/Technology Package"
+    }
+  }
+}
